@@ -1,4 +1,4 @@
-package com.example.gitrepoproject.domain.proxy;
+package com.example.gitrepoproject.domain.proxy.dto;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 

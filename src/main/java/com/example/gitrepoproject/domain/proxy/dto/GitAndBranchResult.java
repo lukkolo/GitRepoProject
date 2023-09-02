@@ -1,4 +1,4 @@
-package com.example.gitrepoproject.domain.proxy;
+package com.example.gitrepoproject.domain.proxy.dto;
 
 import java.util.List;
 
